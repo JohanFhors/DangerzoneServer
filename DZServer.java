@@ -7,6 +7,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import javax.swing.*;
 /**
  * Server class mostly checking git with this comment
+ * I will do it again!
  * @author Klas McDie
  *
  */
