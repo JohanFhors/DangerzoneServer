@@ -5,7 +5,11 @@ import java.util.ArrayList;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 import javax.swing.*;
-
+/**
+ * Server class mostly checking git with this comment
+ * @author Klas McDie
+ *
+ */
 public class DZServer extends JFrame {
 	private static int port = 2000;
 	private JTextArea area = new JTextArea();
